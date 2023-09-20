@@ -1,4 +1,4 @@
-![logo](https://github.com/vivek9935/vivek9935/blob/main/634970c7cbeed5837b11b938_62fd57ccd6890f25796f92f9_AdobeStock_295461823-p-1600.jpeg)
+![logo](https://github.com/vivek9935/vivek9935/blob/main/software-engineering-banner2400.jpg)
 <h1 align="center">Hi 👋, I'm Vivek Dwivedi</h1>
 <h3 align="center">Software Developer</h3>
 
